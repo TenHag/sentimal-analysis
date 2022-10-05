@@ -1,1 +1,1 @@
-# sentimal-analysis
+# sentiment-analysis
